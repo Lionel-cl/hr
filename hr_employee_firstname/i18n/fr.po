@@ -26,7 +26,7 @@ msgstr ""
 #. module: hr_employee_firstname
 #: model:ir.model,name:hr_employee_firstname.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "Configurations"
 
 #. module: hr_employee_firstname
 #: model:ir.model,name:hr_employee_firstname.model_hr_employee
@@ -37,21 +37,21 @@ msgstr "Employé"
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_res_config_settings__employee_names_order
 #: model_terms:ir.ui.view,arch_db:hr_employee_firstname.res_config_settings_view_form
 msgid "Employee Names Order"
-msgstr ""
+msgstr "Tri par le nom"
 
 #. module: hr_employee_firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee__firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee_base__firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee_public__firstname
 msgid "First name"
-msgstr ""
+msgstr "Prénom"
 
 #. module: hr_employee_firstname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee__lastname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee_base__lastname
 #: model:ir.model.fields,field_description:hr_employee_firstname.field_hr_employee_public__lastname
 msgid "Last name"
-msgstr ""
+msgstr "Nom"
 
 #. module: hr_employee_firstname
 #. odoo-python
@@ -65,8 +65,3 @@ msgstr ""
 msgid "Order to compose employee fullname"
 msgstr ""
 
-#~ msgid "Firstname"
-#~ msgstr "Prénom"
-
-#~ msgid "Lastname"
-#~ msgstr "Nom"
